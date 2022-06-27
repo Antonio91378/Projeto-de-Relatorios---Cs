@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelatoriosTemplateMethod", "RelatoriosTemplateMethod\RelatoriosTemplateMethod.csproj", "{A0E5362A-2C6B-40E4-A31B-4EBF705A3915}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoDesignPatterns", "..\VersãoDiferenteDesignPattern\Design-Pattern-Studies\Design-Pattern-Studies-671e9638cda1b8c9424bd7ca94cc41c93c4a52a1\CursoDesignPatterns\CursoDesignPatterns.csproj", "{C2641782-DD7F-4741-B469-5CAE509E4F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E5362A-2C6B-40E4-A31B-4EBF705A3915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E5362A-2C6B-40E4-A31B-4EBF705A3915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E5362A-2C6B-40E4-A31B-4EBF705A3915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E5362A-2C6B-40E4-A31B-4EBF705A3915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2641782-DD7F-4741-B469-5CAE509E4F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2641782-DD7F-4741-B469-5CAE509E4F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2641782-DD7F-4741-B469-5CAE509E4F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2641782-DD7F-4741-B469-5CAE509E4F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E9F33C-E9E9-4F06-857B-F14C8A72DD8F}
+	EndGlobalSection
+EndGlobal

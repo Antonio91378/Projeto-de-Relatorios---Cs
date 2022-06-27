@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RelatoriosTemplateMethod/1.0.0": {
+        "dependencies": {
+          "CursoDesignPatterns": "1.0.0.0"
+        },
+        "runtime": {
+          "RelatoriosTemplateMethod.dll": {}
+        }
+      },
+      "CursoDesignPatterns/1.0.0.0": {
+        "runtime": {
+          "CursoDesignPatterns.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RelatoriosTemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoDesignPatterns/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
